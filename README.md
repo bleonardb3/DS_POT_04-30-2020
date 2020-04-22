@@ -9,7 +9,7 @@ The labs in this workshop will illustrate the myriad features included in Watson
 
 > <img src="https://github.com/bleonardb3/DS_POT_01-16-2020/blob/master/images/DataScienceLifeCycle.png"/>
 
-1. [Lab-1](Lab-1) - This lab will set up the Watson Studio environment for subsequent labs and introduce you to the Project and Community features of Watson Studio
+1. [Lab-1](Lab-1) - This lab will set up the Watson Studio environment for subsequent labs and introduce you to the Project and Gallery features of Watson Studio
 
 1. [Lab-2](Lab-2) - This lab will introduce you to the features of IBM's Watson Knowledge Catalog. Watson Knowledge Catalog is a secure enterprise catalog to discover, catalog and govern your data and modeling assets with greater efficiency. 
 
